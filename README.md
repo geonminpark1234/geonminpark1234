@@ -1,4 +1,6 @@
-## Hi there 👋
+## Introduction
+
+*22112064 박건민*
 
 <!--
 **geonminpark1234/geonminpark1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
